@@ -25,3 +25,6 @@ https://protected-beyond-16010.herokuapp.com/
 
 2. <b>To-Do List</b><p>Allows user to create a daily To-Do list for their convenience.</p>
 https://peaceful-dusk-61554.herokuapp.com/
+
+3. <b>Weather App</b> <p>App that allows user to enter city in a text field and it fetches it's weather info using openweathermap API</p>
+https://dry-spire-11244.herokuapp.com/
