@@ -27,4 +27,4 @@ https://protected-beyond-16010.herokuapp.com/
 https://peaceful-dusk-61554.herokuapp.com/
 
 3. <b>Weather App</b> <p>App that allows user to enter city in a text field and it fetches it's weather info using openweathermap API</p>
-https://dry-spire-11244.herokuapp.com/
+https://arcane-scrubland-76447.herokuapp.com/
