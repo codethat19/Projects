@@ -20,10 +20,10 @@ https://codethat19.github.io/SimonGame/
 
 <b><em>Javascript, Node.js, express, EJS and third-party APIs:</em></b>
 
-1. <b>Mail Subscription List</b><p>Allows user to enter their first name, last name and email address to be saved under my mail subscription list using mailchimp api.</p>
+1. <b>Mail Subscription List-Mailchimp API</b><p>Allows user to enter their first name, last name and email address to be saved under my mail subscription list using mailchimp api.</p>
 https://protected-beyond-16010.herokuapp.com/
 
-2. <b>Weather App</b> <p>App that allows user to enter city in a text field and it fetches it's weather info using openweathermap API</p>
+2. <b>Weather App-Openweathermap API</b> <p>App that allows user to enter city in a text field and it fetches it's weather info using openweathermap API</p>
 https://arcane-scrubland-76447.herokuapp.com/
 
 <b><em>Javascript, Node.js, express, EJS and MongoDB:</em></b>
